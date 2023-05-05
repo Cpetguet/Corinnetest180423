@@ -1,0 +1,148 @@
+?calibrationId=30033&isDataPointDefault=false
+
+{
+  "createdBy": "cpetguet",
+  "createdOn": "2023-05-02T07:55:43.910Z",
+  "modifiedBy": "cpetguet",
+  "modifiedOn": "2023-05-02T07:55:43.910Z",
+  "allowedToleranceInCelsius": 1.0,
+  "allowedTolerancePercent": 0.3,
+  "archivedMeasuringModeId": 2,
+  "archivedReferenceDeviceId": 0,
+  "asFoundAsLeftOptionId": 2,
+  "calibrationId": 30033,
+  "displayCorrection": 0,
+  "distanceInMillimeter": 0,
+  "expectedTempInCelsius": 300,
+  "id": 0,
+  "isCreatedByCustomer": true,
+  "isDataPointDefault": true,
+  "measuredCurrentInMilliampere": 0,
+  "measuredTempInCelsius": 0,
+  "measurementUncertainty": 0,
+  "referenceDeviceCertificateFileName": "string",
+  "referenceDeviceInstituteIdentification": "string",
+  "referenceDeviceName": "string",
+  "roomHumidityPercent": 0,
+  "roomTempInCelsius": 0,
+  "spotSizeDiameterInMillimeter": 0
+}
+
+{
+    "allowedToleranceInCelsius": 1.00000,
+    "allowedTolerancePercent": 0.30000,
+    "archivedMeasuringModeId": 2,
+    "archivedReferenceDeviceId": null,
+    "asFoundAsLeftOptionId": 2,
+    "calibrationId": 30033,
+    "displayCorrection": null,
+    "distanceInMillimeter": null,
+    "expectedTempInCelsius": 555.00000,
+    "id": 12781,
+    "isCreatedByCustomer": false,
+    "isDataPointDefault": false,
+    "measuredCurrentInMilliampere": null,
+    "measuredTempInCelsius": null,
+    "measurementUncertainty": null,
+    "referenceDeviceCertificateFileName": null,
+    "referenceDeviceInstituteIdentification": null,
+    "referenceDeviceName": null,
+    "roomHumidityPercent": null,
+    "roomTempInCelsius": null,
+    "spotSizeDiameterInMillimeter": null,
+    "createdBy": null,
+    "createdOn": "0001-01-01T00:00:00",
+    "modifiedBy": "markkres",
+    "modifiedOn": "2022-10-19T15:44:15.2913713"
+
+"actualTempInCelsius": 36,
+  "calibrationId": 1,
+  "calibratorUsername": "edina_username",
+  "current": 25,
+  "dataPointCurrentTolerance": 12,
+  "dataPointTempInCelsius": 1500,
+  "dataPointTempToleranceInCelsius": 65,
+  "displayCorrection": 2,
+  "distance": 2.5,
+  "isDataPointDefault": false,
+  "referenceDeviceId": 5,
+  "roomHumidityPercent": 55.6,
+  "roomTempInCelsius": 20.3,
+  "spotSizeDiameter": 2.9,
+  "stateBeforeCalibration": 1
+
+
+{
+    "allowedToleranceInCelsius": 1.00000,
+    "allowedTolerancePercent": 0.30000,
+    "archivedMeasuringModeId": 2,
+    "archivedReferenceDeviceId": null,
+    "asFoundAsLeftOptionId": 2,
+    "calibrationId": 30033,
+    "displayCorrection": null,
+    "distanceInMillimeter": null,
+    "expectedTempInCelsius": 555.00000,
+    "id": 12781,
+    "isCreatedByCustomer": false,
+    "isDataPointDefault": false,
+    "measuredCurrentInMilliampere": null,
+    "measuredTempInCelsius": null,
+    "measurementUncertainty": null,
+    "referenceDeviceCertificateFileName": null,
+    "referenceDeviceInstituteIdentification": null,
+    "referenceDeviceName": null,
+    "roomHumidityPercent": null,
+    "roomTempInCelsius": null,
+    "spotSizeDiameterInMillimeter": null,
+    "createdBy": null,
+    "createdOn": "0001-01-01T00:00:00",
+    "modifiedBy": "markkres",
+    "modifiedOn": "2022-10-19T15:44:15.2913713"
+
+
+{
+
+  "asFoundAsLeftOptionId": 2,
+  "calibrationId": 40117,
+  "distanceInMillimeter": 1000,
+  "horizontalCenterDeviationInMillimeter": null,
+  "id": 10203,
+  "measureSpotInMillimeter": 3.00000,
+  "shutter": null,
+  "targetSpotInMillimeter": null,
+  "verticalCenterDeviationInMillimeter": null
+}
+
+{
+  
+    "asFoundAsLeftOptionId": 1,
+    "calibrationId": 40117,
+    "distanceInMillimeter": 2000,
+    "horizontalCenterDeviationInMillimeter": null,
+    "id": 10165,
+    "measureSpotInMillimeter": 2,
+    "shutter": null,
+    "targetSpotInMillimeter": null,
+    "verticalCenterDeviationInMillimeter": null,
+    "createdBy": null,
+    "createdOn": "0001-01-01T00:00:00",
+    "modifiedBy": null,
+    "modifiedOn": "0001-01-01T00:00:00"
+}
+
+{
+  
+    "asFoundAsLeftOptionId": 1,
+    "calibrationId": 40117,
+    "distanceInMillimeter": 2000,
+    "horizontalCenterDeviationInMillimeter": null,
+    "id": 10165,
+    "measureSpotInMillimeter": 2,
+    "shutter": null,
+    "targetSpotInMillimeter": null,
+    "verticalCenterDeviationInMillimeter": null,
+    "createdBy": null,
+    "createdOn": "0001-01-01T00:00:00",
+    "modifiedBy": null,
+    "modifiedOn": "0001-01-01T00:00:00"
+}
