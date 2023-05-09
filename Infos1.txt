@@ -1,0 +1,34 @@
+performance monitor
+current connections IP 10.139.100.12
+                       Last 300 nicht normal  logs(Applicationlog) anscheuen
+
+Siemens server: 10.139.100.11 hier kann man die PMU zu diesem Server weiterleiten wenn der Kunde seine  
+
+
+Sehr geehrte Damen und Herren,
+
+am 16.05.2021 gas es eine Störung in unserem Sitelink Server, Dies hat dazugeführt, dass die Wechselrichterdaten nicht
+in unserem Portal nicht verfügbar waren. Am 17.05.2021 wurde die Störung behoben, aktuell liefern fast zwei drittel 
+aller Kundengeräte aktuelle Daten.Bei den anderen Geräten bitten wir um Geduld, da die Daten langsam aufgeholt werden.
+Wir bitten um Entschuldigung für die Unannemlichkeit.
+
+
+Dear customer,
+
+on the 16th of May 2021 we got some issues in our sitelink server, so that the inverter data was not available in the portal.
+On the 17 th of May the issues have been solved, actually two thirds of the customer devices are sending right now actual data.
+For the other ones that are not sending the data we are asking for you patience, as the data is caught up slowly -
+
+wir apologize for the inconvenience 
+
+310013193
+
+010013314
+010013909
+080034081
+010027208
+080056503
+
+
+
+
